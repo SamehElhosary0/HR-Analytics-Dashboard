@@ -45,8 +45,7 @@ HR teams need a consolidated view of workforce demographics, department distribu
 
 <div align="center">
 
-<!-- [ADD: ![HR Dashboard Overview](screenshots/hr-dashboard-overview.png)] -->
-<i>Screenshot: full HR analytics overview</i>
+![HR Dashboard Overview](screenshots/hr-dashboard-overview.png)
 
 </div>
 

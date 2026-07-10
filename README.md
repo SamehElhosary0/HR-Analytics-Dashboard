@@ -65,6 +65,6 @@ HR teams need a consolidated view of workforce demographics, department distribu
 <div align="center">
 
 **Sameh El-Hosary** | Data Analyst &amp; Business Intelligence Analyst
-[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](https://mail.google.com/mail/u/1/#inbox)
+[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](mailto:sameh.sabry656@gmail.com)
 
 </div>
